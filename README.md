@@ -58,7 +58,7 @@ AI checks run through a secure **Node plugin task**:
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run test 
 
 ### 1. Install dependencies
 
