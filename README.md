@@ -9,7 +9,7 @@
 A modern QA automation demo showcasing **Cypress**, **TypeScript**, **AI-powered validation**, **visual regression testing**, and **API/UI flows**.
 Designed to be clear, lightweight, and easy to extend.
 
-# just to test
+# just to test test
 
 ## 📌 What This Framework Tests
 
@@ -58,7 +58,7 @@ AI checks run through a secure **Node plugin task**:
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run test 
 
 ### 1. Install dependencies
 
