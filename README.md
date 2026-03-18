@@ -13,7 +13,7 @@ Designed to be clear, lightweight, and easy to extend.
 
 ## 📌 What This Framework Tests
 
-### 🔗 Base URL
+### 🔗 Base URL test
 
 ```
 http://localhost:3000
