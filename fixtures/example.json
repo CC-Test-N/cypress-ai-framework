@@ -5,6 +5,6 @@
   },
   "ai_prompt_example": {
     "name": "short_product_description",
-    "prompt": "Write a short, friendly product description for {{productName}} in 2-3 sentences."
+    "prompt": "Write a short, friendly product description for {{productName}} in 1-2 sentences."
   }
 }
