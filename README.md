@@ -47,6 +47,8 @@ http://localhost:3000
 
 AI checks run through a secure **Node plugin task**:
 
+
+
 1. Test calls:
    `cy.validateTextWithAI(prompt, text)`
 2. Cypress triggers plugin (`validateAIText`)
