@@ -88,6 +88,8 @@ npm run cypress:open
 
 ```bash
 npm run cypress:run
+
+
 ```
 
 ---
