@@ -24,6 +24,7 @@ http://localhost:3000
 * **AI Editor UI** (`/ai-editor`)
 * **Root page smoke tests**
 * **API endpoints**
+* 
 
   * `GET /api/health`
   * `POST /api/login`
