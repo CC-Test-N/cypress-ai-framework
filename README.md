@@ -21,6 +21,7 @@ http://localhost:3000
 
 ### 🧪 Automated coverage includes:
 
+
 * **AI Editor UI** (`/ai-editor`)
 * **Root page smoke tests**
 * **API endpoints**
