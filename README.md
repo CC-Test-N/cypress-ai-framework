@@ -29,6 +29,7 @@ http://localhost:3000
   * `POST /api/login`
 * **AI text verification** (OpenAI)
 * **Visual snapshot testing** (image diffs)
+* 
 
 ---
 
