@@ -15,6 +15,7 @@ Designed to be clear, lightweight, and easy to extend.
 
 ### 🔗 Base URL
 
+
 ```
 http://localhost:3000
 ```
