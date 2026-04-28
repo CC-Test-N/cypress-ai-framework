@@ -59,6 +59,49 @@ AI checks run through a secure **Node plugin task**:
 
 ---
 
+## ⚙️ Project Setup
+
+### Prerequisites
+
+* **Node.js** v16 or higher
+* **npm** v8 or higher
+* A running instance of the local test server (see below)
+* *(Optional)* An **OpenAI API key** for AI-powered validation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/CC-Test-N/cypress-ai-framework.git
+cd cypress-ai-framework
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Configure environment variables
+
+Create a `.env` file in the project root (or export variables directly):
+
+```bash
+# Required only for AI validation tests
+export OPENAI_API_KEY="sk-..."
+```
+
+> ⚠️ If `OPENAI_API_KEY` is not set, AI validation steps are automatically skipped — no test failures will occur.
+
+### 4. Start the local test server
+
+```bash
+npm run start
+```
+
+The server will be available at `http://localhost:3000`.
+
+---
+
 ## ▶️ How to Run
 
 ### 1. Install dependencies
