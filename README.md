@@ -71,6 +71,8 @@ npm install
 
 ```bash
 export OPENAI_API_KEY="sk-..."
+
+
 ```
 
 ### 3. Start local test server
