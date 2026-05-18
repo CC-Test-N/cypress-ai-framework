@@ -42,6 +42,7 @@ http://localhost:3000
 | **api_test.cy.ts**  | Tests health endpoint + login flow                        |
 | **ui_test.cy.ts**   | Basic UI smoke checks                                     |
 
+
 ---
 
 ## 🧠 AI Validation — How It Works
